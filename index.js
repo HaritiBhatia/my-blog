@@ -36,7 +36,7 @@ app.set('view engine', 'ejs');
               </ul>
               
         
-              <h3>The Importance of Vercel in Modern Web Development</h3>
+              <h3>The Importance of Vercel in Modern Web Development.</h3>
               <p>
                 In today's fast-paced digital environment, users expect websites to load quickly and perform smoothly. Vercel addresses these expectations by offering:
               </p>
